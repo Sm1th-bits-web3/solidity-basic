@@ -2,7 +2,7 @@
 
 👀 I’m interested in solidity-development
 
-🌱 I’m currently learning solidity
+🌱 I’m studying in https://solidity-cn.readthedocs.io/zh/develop/
 
 📫 My email:Sm1th.bits.web3@gmail.com
 
