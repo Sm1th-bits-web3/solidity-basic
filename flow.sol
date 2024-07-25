@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-//if function do not have 'view' or 'public',the function will spend gas
+//if function do not have 'view' ,the function will spend gas
 pragma solidity ^0.4.0;
 contract flow{
     uint8 num1 = 255;
